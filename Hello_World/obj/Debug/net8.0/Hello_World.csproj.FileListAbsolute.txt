@@ -1,0 +1,15 @@
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\bin\Debug\net8.0\Hello_World.exe
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\bin\Debug\net8.0\Hello_World.deps.json
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\bin\Debug\net8.0\Hello_World.runtimeconfig.json
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\bin\Debug\net8.0\Hello_World.dll
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\bin\Debug\net8.0\Hello_World.pdb
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfoInputs.cache
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfo.cs
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.csproj.CoreCompileInputs.cache
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.sourcelink.json
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.dll
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\refint\Hello_World.dll
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.pdb
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\Hello_World.genruntimeconfig.cache
+D:\Personal Resources\Github\C#\C-Sharp-Codes\Hello_World\obj\Debug\net8.0\ref\Hello_World.dll
